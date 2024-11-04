@@ -1,2 +1,2 @@
-# Computer-networking
-experiment output 
+# Computer-Networks
+exercises of Computer Network Laboratory
